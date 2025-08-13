@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+      "commerce-core-endpoint": "https://adobe-optimizer-ytjwf7i-sz2ljpmf2drki.us-4.magentosite.cloud/graphql",
       "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
       "headers": {
         "cs": {
